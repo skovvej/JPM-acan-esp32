@@ -4,7 +4,7 @@
 
 #include <ACAN_ESP32.h>
 
-#include <esp_private/periph_ctrl.h>
+#include <driver/periph_ctrl.h>
 
 //----------------------------------------------------------------------------------------
 //   ESP32 Critical Section
